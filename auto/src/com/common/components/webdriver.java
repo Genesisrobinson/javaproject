@@ -23,7 +23,7 @@ public static RemoteWebDriver driver;
 public static void  webdriver(){
 
 /* Code for Grid Execution */                    
-/*try {
+try {
 DesiredCapabilities cap =DesiredCapabilities.chrome();
 cap.setPlatform(Platform.WIN10);
 URL url;
@@ -36,9 +36,9 @@ URL url;
 	} catch (MalformedURLException e) {
 	// TODO Auto-generated catch block
 	e.printStackTrace();
-}*/
+}
 	
-
+/*
 	System.setProperty("webdriver.chrome.driver", "inputs//chromedriver.exe");
 	driver = new ChromeDriver();  
     System.out.println("Driver object created");
@@ -46,7 +46,7 @@ URL url;
    driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS); 
 	//Puts an Implicit wait, Will wait for 10 seconds before throwing exception
     driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS); 
-    driver.navigate().to("http://www.calculator.net/"); 
+    driver.navigate().to("http://www.calculator.net/"); */
    
   }
 public static void startdriver(){
