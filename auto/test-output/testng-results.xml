@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2017-10-29T12:29:40Z" name="Suite" finished-at="2017-10-29T12:31:00Z" duration-ms="79962">
+    <groups>
+    </groups>
+    <test started-at="2017-10-29T12:29:40Z" name="Test" finished-at="2017-10-29T12:31:00Z" duration-ms="79962">
+      <class name="TestLab.NewTest">
+        <test-method signature="testset1(java.lang.String, java.lang.String)[pri:1, instance:TestLab.NewTest@33c911a1]" started-at="2017-10-29T17:59:40Z" name="testset1" data-provider="dp" finished-at="2017-10-29T18:00:03Z" duration-ms="22223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testset1 -->
+        <test-method signature="testset1(java.lang.String, java.lang.String)[pri:1, instance:TestLab.NewTest@33c911a1]" started-at="2017-10-29T18:00:03Z" name="testset1" data-provider="dp" finished-at="2017-10-29T18:00:21Z" duration-ms="18535" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testset1 -->
+        <test-method signature="testset2(java.lang.String, java.lang.String)[pri:1, instance:TestLab.NewTest@33c911a1]" started-at="2017-10-29T18:00:21Z" name="testset2" data-provider="dp" finished-at="2017-10-29T18:00:41Z" duration-ms="19706" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testset2 -->
+        <test-method signature="testset2(java.lang.String, java.lang.String)[pri:1, instance:TestLab.NewTest@33c911a1]" started-at="2017-10-29T18:00:41Z" name="testset2" data-provider="dp" finished-at="2017-10-29T18:01:00Z" duration-ms="19280" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[31]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testset2 -->
+      </class> <!-- TestLab.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
