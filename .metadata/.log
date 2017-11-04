@@ -1699,6 +1699,7 @@ java -ea -classpath C:\Users\gerobins\eclipse\java-oxygen\eclipse\configuration\
   Args:      -serport 51060 -protocol json -d D:\GITRepository\Javaproject\auto\test-output D:\GITRepository\Javaproject\auto\testng.xml
 java -ea -classpath C:\Users\gerobins\eclipse\java-oxygen\eclipse\configuration\org.eclipse.osgi\548\0\.cp\lib\testng-remote.jar:D:\GITRepository\Javaproject\auto\bin:C:\Users\gerobins\.p2\pool\plugins\org.testng_6.12.0.r201709030044.jar:C:\Users\gerobins\.p2\pool\plugins\com.beust.jcommander_1.66.0.jar:C:\Users\gerobins\.p2\pool\plugins\org.apache-extras.beanshell.bsh_2.0.0.b6.jar:C:\Users\gerobins\.p2\pool\plugins\org.yaml.snakeyaml_1.17.0.jar:D:\GITRepository\Javaproject\auto\lib\byte-buddy-1.7.5.jar:D:\GITRepository\Javaproject\auto\lib\client-combined-3.6.0-sources.jar:D:\GITRepository\Javaproject\auto\lib\client-combined-3.6.0.jar:D:\GITRepository\Javaproject\auto\lib\commons-beanutils-1.9.2.jar:D:\GITRepository\Javaproject\auto\lib\commons-codec-1.10.jar:D:\GITRepository\Javaproject\auto\lib\commons-collections-3.2.2.jar:D:\GITRepository\Javaproject\auto\lib\commons-collections4-4.1.jar:D:\GITRepository\Javaproject\auto\lib\commons-digester-1.8.1.jar:D:\GITRepository\Javaproject\auto\lib\commons-exec-1.3.jar:D:\GITRepository\Javaproject\auto\lib\commons-io-2.4.jar:D:\GITRepository\Javaproject\auto\lib\commons-lang-2.6.jar:D:\GITRepository\Javaproject\auto\lib\commons-lang3-3.4.jar:D:\GITRepository\Javaproject\auto\lib\commons-logging-1.2.jar:D:\GITRepository\Javaproject\auto\lib\commons-validator-1.5.1.jar:D:\GITRepository\Javaproject\auto\lib\ExcelReportGenerator-4.0.1.jar:D:\GITRepository\Javaproject\auto\lib\gson-2.8.0.jar:D:\GITRepository\Javaproject\auto\lib\guava-23.0.jar:D:\GITRepository\Javaproject\auto\lib\httpclient-4.5.3.jar:D:\GITRepository\Javaproject\auto\lib\httpcore-4.4.6.jar:D:\GITRepository\Javaproject\auto\lib\jna-4.1.0.jar:D:\GITRepository\Javaproject\auto\lib\jna-platform-4.1.0.jar:D:\GITRepository\Javaproject\auto\lib\poi-3.14-20160307.jar:D:\GITRepository\Javaproject\auto\lib\poi-3.15.jar:D:\GITRepository\Javaproject\auto\lib\poi-ooxml-3.14-20160307.jar:D:\GITRepository\Javaproject\auto\lib\poi-ooxml-3.15.jar:D:\GITRepository\Javaproject\auto\lib\poi-ooxml-schemas-3.14-20160307.jar:D:\GITRepository\Javaproject\auto\lib\poi-ooxml-schemas-3.15.jar:D:\GITRepository\Javaproject\auto\lib\testng.jar org.testng.remote.RemoteTestNG -serport 51060 -protocol json -d D:\GITRepository\Javaproject\auto\test-output D:\GITRepository\Javaproject\auto\testng.xml
 <<<<<<< HEAD
+<<<<<<< HEAD
 !SESSION 2017-10-29 18:07:18.945 -----------------------------------------------
 eclipse.buildId=4.7.1.M20170906-1700
 java.version=9
@@ -3256,5 +3257,7 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.core.resources 2 10035 2017-11-04 11:09:53.814
 !MESSAGE The workspace will exit with unsaved changes in this session.
+=======
+>>>>>>> parent of 50cb63b... changes done
 =======
 >>>>>>> parent of 50cb63b... changes done

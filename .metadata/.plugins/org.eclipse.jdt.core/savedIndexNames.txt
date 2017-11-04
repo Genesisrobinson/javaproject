@@ -80,6 +80,9 @@ INDEX VERSION 1.130+D:\GITRepository\Javaproject\.metadata\.plugins\org.eclipse.
 305446040.index
 2956557562.index
 2969092950.index
+<<<<<<< HEAD
+>>>>>>> parent of 50cb63b... changes done
+=======
 >>>>>>> parent of 50cb63b... changes done
 2966054571.index
 2986744596.index
@@ -104,6 +107,9 @@ INDEX VERSION 1.130+D:\GITRepository\Javaproject\.metadata\.plugins\org.eclipse.
 3113838823.index
 466388363.index
 3554867835.index
+<<<<<<< HEAD
+>>>>>>> parent of 50cb63b... changes done
+=======
 >>>>>>> parent of 50cb63b... changes done
 2055624378.index
 4171855793.index
